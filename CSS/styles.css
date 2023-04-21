@@ -97,3 +97,8 @@ source.image{
 .card-img-top{
     align-content: center;
 }
+.quote{
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+}
